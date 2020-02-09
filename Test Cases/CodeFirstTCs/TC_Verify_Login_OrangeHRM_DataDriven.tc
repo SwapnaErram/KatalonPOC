@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify_Login_OrangeHRM_DataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6efe1497-afba-4c4a-8ac3-0f687c455c5b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ec495c1-aefe-4552-b7fb-5949d431f778</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e0e8807-83f3-4125-a8d8-b15d907d0838</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
